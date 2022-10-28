@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\bin\Debug\Пример 2.exe.config
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\bin\Debug\Пример 2.exe
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\bin\Debug\Пример 2.pdb
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2.g.resources
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример_2.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2.exe
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2.pdb
+C:\Users\Пользователь\Desktop\КУПК\3 КУРС\02.01\24.10\Пример 2\Пример 2\obj\Debug\Пример 2.csprojAssemblyReference.cache

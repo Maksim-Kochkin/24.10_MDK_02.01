@@ -1,0 +1,28 @@
+﻿<Window x:Class="Пример_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Пример_2"
+        mc:Ignorable="d"
+        Title="Пример 2" Height="450" Width="800" x:Name="MyWindow" FontFamily="Microsoft YaHei UI" FontSize="16">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label HorizontalAlignment="Left"  VerticalAlignment="Top" Content="Fallback Value and TargetNullValue"/>
+        <Label x:Name="InfoTb" HorizontalAlignment="Left"  VerticalAlignment="Top" Content="{Binding Path=[0], FallbackValue='Why did you set value?', TargetNullValue='Null value detected'}" Grid.Row="1"/>
+        <Button x:Name="btn1" Content="Value = My Text" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="165" Height="45" Click="btn1_Click"/>
+        <Button x:Name="btn2" Content="Value = Invalid path" HorizontalAlignment="Left" Margin="190,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="165" Height="45" Click="btn2_Click"/>
+        <Button x:Name="btn3" Content="Value = Unset" HorizontalAlignment="Left" Margin="377,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="165" Height="45" Click="btn3_Click"/>
+        <Label x:Name="InfoTb1" HorizontalAlignment="Left"  VerticalAlignment="Top" Content="{Binding TargetNullValue='Where my value?'}" Grid.Row="3"/>
+        <Button x:Name="btn1_C" Content="Value = My Text" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="4" VerticalAlignment="Top" Width="165" Height="45" Click="btn1_C_Click"/>
+        <Button x:Name="btn2_C" Content="Value = Null" HorizontalAlignment="Left" Margin="190,10,0,0" Grid.Row="4" VerticalAlignment="Top" Width="165" Height="45" Click="btn2_C_Click"/>
+        <Button x:Name="btn3_C" Content="Value = 123" HorizontalAlignment="Left" Margin="377,10,0,0" Grid.Row="4" VerticalAlignment="Top" Width="165" Height="45" Click="btn3_C_Click"/>
+    </Grid>
+</Window>
